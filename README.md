@@ -59,21 +59,12 @@ I enjoy working across the full software development lifecycle — from system a
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonikdesk4&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonikdesk4&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### 🤝 Let's Connect
 
 I'm always interested in discussing software engineering, AI, system architecture, and innovative technology projects.
 
 - GitHub: [@bonikdesk4](https://github.com/bonikdesk4)
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
+- Email: meshu12345@gmail.com
 
 ---
 
